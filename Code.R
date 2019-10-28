@@ -1,3 +1,5 @@
+
+
 train = read.csv('C:/Users/Vittorio/Desktop/uni/A_stat/altro uni/sus/train.csv')
 bareme_tab = read.table('C:/Users/Vittorio/Desktop/uni/A_stat/altro uni/sus/bareme_tab.txt',header=TRUE)
 
